@@ -7,3 +7,5 @@ A Flutter code for animated floating action button which turns into the expanded
 This project covers covers how to animated floating action button which turns into the expanded modal. Also how to close expanded model.
 
 Click [here](https://effortlesscodelearning.com/show-animated-floating-action-button-with-expanded-model/) for more details on this.
+
+Click [here](https://youtube.com/shorts/vAC_mzlP-A8) to watch preview.
